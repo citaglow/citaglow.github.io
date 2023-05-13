@@ -1,0 +1,11 @@
+- name: Fill out the registration form 
+  description: Please click the registration button. 
+  
+- name: Consultation on class conditions
+  description: We will contact you after checking the registration.
+  
+- name: A trial lesson with the Teacher
+  description: You can meet the teacher before registering
+  
+- name: First class starts
+  description: Welcome to becoming a member of Korea with Minha
