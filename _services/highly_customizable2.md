@@ -1,5 +1,5 @@
 ---
-layout: featured
+layout: page
 title: Highly customizable
 icon: /assets/img/icons/air-freshener-solid.svg
 image: /assets/img/services/03.jpg
