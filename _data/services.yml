@@ -1,0 +1,18 @@
+- title: About KWM
+  icon: /assets/images/service-icon2.png
+  description: KHM is Korean school you can learn Korean
+  button_label: Learn More
+  url: /pages/explore-topics/
+  
+- title: Class
+  icon: /assets/images/service-icon.png
+  description:  There are many classes
+  button_label: Learn More
+  url: /pages/faq/
+  
+- title: Registration
+  icon: /assets/images/service-icon3.png
+  description:  You can enroll any class from you needs
+  button_label: Registrater
+  url: /docs/left-sidebar-example
+  
