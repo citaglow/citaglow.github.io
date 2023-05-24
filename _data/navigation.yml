@@ -1,0 +1,14 @@
+#Please use the main menu items under the "text"
+
+- text: Home
+  url: /
+- text: About
+  url: /pages/about
+- text: Online Lesson
+  url: /pages/blog
+- text: Visiting Lesson
+  url: /pages/services
+- text: How to Apply
+  url: /
+- text: Registration
+  url: /
